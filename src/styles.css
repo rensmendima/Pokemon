@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+.App {
+  font-family: "Open Sans", serif;
+}
+
+
+.Card_Type {
+  padding: 40px 100px;
+  margin: 1px 80px 40px 0;
+  border-radius: 20px;
+  background: #222;
+  color: #fff;
+}
+
+.Card_name {
+  padding: 5px 30px;
+  margin: 1px 80px 1px 0;
+  border-radius: 20px;
+  background: #222;
+  color: #fff;
+}
+
+.Card_ID {
+  padding: 5px 30px;
+  margin: 1px 80px 1px 0;
+  border-radius: 20px;
+  background: #222;
+  color: #fff;
+}
+
+.Card__img {
+  text-align: center;
+  float: left;
+  background: #222;
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+  margin: 2px 82px 40px 0;
+  border: 2px solid #111; 
+  border-radius: 20px;
+
+}
